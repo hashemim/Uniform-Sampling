@@ -1,7 +1,7 @@
 # Uniform-Sampling
 Uniform random sampling of U(n)
 
-The code provides a uniform random sample of U(n) group. These are n \times square unitary matrices. 
+The code provides a uniform random sample of U(n) group. These are n by n square unitary matrices. 
 We also test the the uniformity for U(2) using the Bloch sphere. 
 
 The code is an implementation of the essay by Maris Ozlos titled " How to generate a random unitary matrix, which is accessible at 
